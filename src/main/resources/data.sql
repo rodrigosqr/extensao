@@ -1,1 +1,1 @@
-insert into atividade(nome) values ('Visita Técnica GDG 2018');
+insert into atividade(nome) values ('Visita Tecnica GDG 2018');
