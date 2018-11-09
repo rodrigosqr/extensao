@@ -6,7 +6,7 @@
 	<groupId>br.edu.iftm.ExtensaoSB</groupId>
 	<artifactId>ExtensaoSB</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>ExtensaoSB</name>
 	<description>Sistema de Extensão do iftm</description>
